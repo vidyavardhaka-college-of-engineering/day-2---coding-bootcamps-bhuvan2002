@@ -3,11 +3,13 @@
 //L1 = 10
 //L2 = 20
 
-#include<stdio.h>;
+#include<stdio.h>
 int main()
 {
 //Write your code below this line
-
+int l1=10,l2=20;
+printf("%d\n",l1);
+printf("%d",l2);
 
 
 return 0;
